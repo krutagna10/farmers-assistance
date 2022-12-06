@@ -12,8 +12,10 @@
 
 .header {
   &__logo-wrapper {
-    max-width: 8rem;
+    max-width: 7rem;
   }
+
+
 
   &__nav {
     background-color: var(--black);
@@ -77,15 +79,12 @@
     border: none;
     font-size: 1.35rem;
     cursor: pointer;
+    color: var(--black);
   }
 
   @media (min-width: 45em) {
     &__mobile-nav-toggle {
       display: none;
-    }
-
-    &__logo-wrapper {
-      max-width: 10rem;
     }
 
     &__nav {

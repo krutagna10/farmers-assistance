@@ -325,7 +325,7 @@ body {
   }
 }
 .header__logo-wrapper {
-  max-width: 8rem;
+  max-width: 7rem;
 }
 .header__nav {
   background-color: var(--black);
@@ -380,13 +380,11 @@ body {
   border: none;
   font-size: 1.35rem;
   cursor: pointer;
+  color: var(--black);
 }
 @media (min-width: 45em) {
   .header__mobile-nav-toggle {
     display: none;
-  }
-  .header__logo-wrapper {
-    max-width: 10rem;
   }
   .header__nav {
     background-color: var(--white);
