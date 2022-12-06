@@ -33,7 +33,7 @@
   &__forgot-password {
     display: block;
     text-decoration: none;
-    color: var(--peach);
+    color: var(--green);
     text-align: right;
   }
 
@@ -48,12 +48,12 @@
 
   &__btn--sign-up, {
     background-color: transparent;
-    color: var(--peach);
+    color: var(--green);
     font-weight: 600;
   }
 
   &__btn--sign-up:hover {
-     color: var(--light-peach);
+     color: var(--light-green);
   }
 
 }

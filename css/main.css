@@ -197,16 +197,16 @@ body {
   list-style: none;
 }
 
-.background-peach {
-  background-color: var(--peach);
+.background-green {
+  background-color: var(--green);
 }
 
-.background-light-peach {
-  background-color: var(--light-peach);
+.background-light-green {
+  background-color: var(--light-green);
 }
 
-.background-very-light-peach {
-  background-color: var(--very-light-peach);
+.background-very-light-green {
+  background-color: var(--very-light-green);
 }
 
 .background-white {
@@ -594,7 +594,7 @@ body {
 .login__forgot-password {
   display: block;
   text-decoration: none;
-  color: var(--peach);
+  color: var(--green);
   text-align: right;
 }
 .login__sign-up {
@@ -606,11 +606,11 @@ body {
 }
 .login__btn--sign-up {
   background-color: transparent;
-  color: var(--peach);
+  color: var(--green);
   font-weight: 600;
 }
 .login__btn--sign-up:hover {
-  color: var(--light-peach);
+  color: var(--light-green);
 }
 
 /*# sourceMappingURL=main.css.map */
