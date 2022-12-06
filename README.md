@@ -1,4 +1,4 @@
-# Farmers Assistance
+# Farmer's Assistance
 A website which will assist farmers to get information about various crops technique to grow, crop'srates, government schemes for farmers and weather forecasting.
 
 ### Screenshot
