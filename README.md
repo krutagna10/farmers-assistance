@@ -1,5 +1,5 @@
-# Rural Art
-Rural arts are like hidden gems, which world should recognise & appreciate with this website. We bring the crafts whose worth is huge and also giving hand crafts the recognition that it needs .
+# Farmers Assistance
+A website which will assist farmers to get information about various crops technique to grow, crop'srates, government schemes for farmers and weather forecasting.
 
 ### Screenshot
 
@@ -7,10 +7,6 @@ Rural arts are like hidden gems, which world should recognise & appreciate with 
 
 ### Links
 
-- Live Site URL: [https://rural-arts.vercel.app/]
+- Live Site URL: [https://farmers-assistance-10.vercel.app/]
 
-### Built with
 
-- HTML
-- SCSS
-- Vanilla Javascript
